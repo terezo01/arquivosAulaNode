@@ -1,0 +1,27 @@
+[
+	{
+		"nome": "Sabonete liquido da cerave",
+		"desc": "Controla a oleosidade",
+		"preço": 90.99
+	},
+	{
+		"nome": "tônico byoma",
+		"desc": "Purifica a pele",
+		"preço": 200.80
+	},
+	{
+		"nome": "Hidratante facial drunk elefant",
+		"desc": "Hidrata seu rosto como nunca foi hidratado",
+		"preço": 500.69
+	},
+	{
+		"nome": "Sérum da glow recepe",
+		"desc": "Diminui os poros do seu rosto",
+		"preço": 359.99
+	},
+	{
+		"nome": "Máscara facial sephora watermelon",
+		"desc": "Uma mascara pra te deixar cheiroso e lisinho",
+		"preço": 150.69
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"categoria": "Sabonete",
+		"descrição": "Limpam o rosto "
+	},
+	{
+		"categoria": "Tonico",
+		"descrição": "Elimina as impurezas da maquiagem"
+	},
+	{
+		"categoria": "Creme facial",
+		"descrição": "Hidrata o rosto"
+	},
+	{
+		"categoria": "Sérum",
+		"descrição": "Diminui a aparência dos poros"
+	},
+	{
+		"categoria": "Máscaras",
+		"descrição": "Recuperam a vitalidade do rosto"
+	}
+]

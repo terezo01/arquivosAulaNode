@@ -1,0 +1,36 @@
+[
+	{
+		"numeroPedido": "#123",
+		"nomeCliente": "Carlos Vargas",
+		"itens": "Sabonete, tônico",
+		"preçoTotal": 291.79
+		
+	},
+	{
+		"numeroPedido": "#054",
+		"nomeCliente": "Rubia Janjão",
+		"itens": "Sérum, máscara",
+		"preçoTotal": 510.68
+		
+	},
+	{
+		"numeroPedido": "#297",
+		"nomeCliente": "Lúcia Lourdes",
+		"itens": "Máscara, hidratante",
+		"preçoTotal": 651.38
+		
+	},
+	{
+		"numeroPedido": "#335",
+		"nomeCliente": "Olivia Caldas",
+		"itens": "Sabonete, sérum",
+		"preçoTotal": 450.90
+		
+	},
+	{
+		"numeroPedido": "#511",
+		"nomeCliente": "Nadia Ferraz",
+		"itens": "Tônico, hidratante",
+		"preçoTotal": 701.49 
+	}
+]
